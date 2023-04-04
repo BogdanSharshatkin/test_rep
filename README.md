@@ -1,1 +1,1 @@
-This is a repositorium for working with GitHub
+This is a repositorium for working w
